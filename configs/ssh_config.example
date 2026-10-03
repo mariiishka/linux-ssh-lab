@@ -1,0 +1,13 @@
+Host lab
+    HostName 203.0.113.10
+    User user1
+    IdentityFile ~/.ssh/example_key
+
+#--------------------------------
+
+Host dev
+    HostName 203.0.113.10
+    User user2
+    IdentityFile ~/.ssh/example_key2
+
+#--------------------------------
